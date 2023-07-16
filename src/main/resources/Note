@@ -1,0 +1,9 @@
+
+h2 db ye bağlanma linki daha öncesinde .proeprties dosyasında 
+
+spring.h2.console.enabled=true 
+
+olacak 
+link ise
+
+http://localhost:5861/h2-console
